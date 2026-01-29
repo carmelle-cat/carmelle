@@ -1,1 +1,10 @@
-theme: jekyll-theme
+title: Carmelle Catamura
+description: Computational Biology | Bioinformatics | ML for Genomics
+theme: jekyll-theme-minimal
+
+header_pages:
+  - index.md
+  - about.md
+  - cv.md
+  - research.md
+  - projects.md
