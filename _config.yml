@@ -1,6 +1,6 @@
 title: Carmelle Catamura
 description: Computational Biology | Bioinformatics | ML for Genomics
-theme: jekyll-theme-minimal
+theme: jekyll-theme
 
 header_pages:
   - index.md
