@@ -3,6 +3,6 @@ title: CV
 layout: default
 ---
 
-<a href="/assets/Catamura_CVDec2025.pdf">Download PDF</a>
+<a href="https://carmelle-cat.github.io/assets/Catamura_CVDec2025.pdf">Download PDF</a>
 
-<iframe src="/assets/Catamura_CVDec2025.pdf" width="100%" height="900px"></iframe>
+<iframe src="https://carmelle-cat.github.io/assets/Catamura_CVDec2025.pdf" width="100%" height="900px"></iframe>
