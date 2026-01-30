@@ -1,5 +1,8 @@
-# Research
+# Sample Projects
 
-## Target Discovery
+## ?
 
-## Machine Learning for RNA therapeutics
+## Exploring splicing landscapes in single-cells with long-read sequencing
+
+## Introduction to Machine Learning Notebook
+
