@@ -1,9 +1,29 @@
-title: Carmelle Catamura
-description: Computational Biology | Bioinformatics 
-theme: jekyll-theme-minimal
+# Site settings
+title: Your Name
+email: carmelle@berkeley.edu
+description: >-
+  Computational biologist specializing in genomics, bioinformatics, and machine learning
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://carmelle-cat.github.io" # your GitHub Pages URL
+github_username: yourusername
+linkedin_username: yourprofile
 
-header_pages:
-  - index.md
-  - about.md
-  - research.md
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
