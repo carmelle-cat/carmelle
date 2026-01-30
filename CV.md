@@ -1,6 +1,6 @@
 ---
-layout: default
 title: CV
+layout: default
 ---
 
 <a href="/assets/Catamura_CVDec2025.pdf">Download PDF</a>
