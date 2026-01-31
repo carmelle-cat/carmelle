@@ -1,6 +1,4 @@
-<p style="text-align:center;">
-  *bioinforcatics*
-</p>
+*bioinforcatics*
 
 <p align="center">
 
