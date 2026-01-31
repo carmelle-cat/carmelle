@@ -1,1 +1,1 @@
-![bioinforcatics](/assets/bioinforcatics.jpg)
+<img src="/assets/bioinforcatics.jpg" width="50%">
