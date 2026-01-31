@@ -28,19 +28,19 @@ Biering, Scott B et al. “Genome-wide bidirectional CRISPR screens identify muc
 #### Presentations
 
 ##### Oral Presentations
-American Society of Human Genetics. 2023. Washington D.C., USA. 
-Bay Area RNA Club. 2023. San Francisco, USA.
-Genetics, Genomics, Evolution and Development Retreat. 2024. Berkeley, USA.
-Computational and Genomic Biology Retreat. 2024. Santa Cruz, USA.
-Computational and Genomic Biology Retreat. 2022. Santa Cruz, USA.
+- American Society of Human Genetics. 2023. Washington D.C., USA. 
+- Bay Area RNA Club. 2023. San Francisco, USA.
+- Genetics, Genomics, Evolution and Development Retreat. 2024. Berkeley, USA.
+- Computational and Genomic Biology Retreat. 2024. Santa Cruz, USA.
+- Computational and Genomic Biology Retreat. 2022. Santa Cruz, USA.
 
 ##### Poster Presentations
-Intelligent Systems for Molecular Biology, 2024. Montreal, Canada. (Awarded Best Poster iRNA track)
-American Society of Human Genetics. 2024. Denver, USA.
-Center for Computational Biology Annual Computational and Genomic Biology Retreat. 2021, 2022. Berkeley, USA. (Awarded Best Poster 2021)
-Bay Area RNA Club Annual Meeting. 2023. San Francisco, USA.
-SACNAS National Diversity in STEM Conference. 2019. Honolulu, USA. (Awarded Best Poster)
-Koret Scholars Undergraduate Research Slam. 2019. Santa Cruz, USA. 
-22nd Annual Undergraduate Poster Symposium Division of Physical and Biological Sciences Jack Baskin School of Engineering. 2019. Santa Cruz, USA. 
-Bruins in Genomics Summer Research Program Symposium. 2019. Los Angeles, USA. 
+- Intelligent Systems for Molecular Biology, 2024. Montreal, Canada. (Awarded Best Poster iRNA track)
+- American Society of Human Genetics. 2024. Denver, USA.
+- Center for Computational Biology Annual Computational and Genomic Biology Retreat. 2021, 2022. Berkeley, USA. (Awarded Best Poster 2021)
+- Bay Area RNA Club Annual Meeting. 2023. San Francisco, USA.
+- SACNAS National Diversity in STEM Conference. 2019. Honolulu, USA. (Awarded Best Poster)
+- Koret Scholars Undergraduate Research Slam. 2019. Santa Cruz, USA. 
+- 22nd Annual Undergraduate Poster Symposium Division of Physical and Biological Sciences Jack Baskin School of Engineering. 2019. Santa Cruz, USA. 
+- Bruins in Genomics Summer Research Program Symposium. 2019. Los Angeles, USA. 
 
